@@ -3,14 +3,19 @@
 A new Flutter project.
 
 ## Getting Started
+# about
 
-This project is a starting point for a Flutter application.
+### I have created a todo task manager application in Flutter. In this application I have used getx. All task data have store in mobile local storage.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+## Used dependencies
+  * [get](https://pub.dev/packages/get)
+  * [get storage](https://pub.dev/packages/get_storage)
+  * [equatable](https://pub.dev/packages/equatable)
+  * [flutter easyLoading](https://pub.dev/packages/flutter_easyloading)
+  * [dotted border](https://pub.dev/packages/dotted_border)
+  * [step progress indicator](https://pub.dev/packages/step_progress_indicator)
+  * [intl](https://pub.dev/packages/intl)
+---
+## Screen Short
+ 
