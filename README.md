@@ -8,7 +8,7 @@ A new Flutter project.
 ### I have created a todo task manager application in Flutter. In this application I have used getx. All task data have store in mobile local storage.
 
 ---
-## Used dependencies
+## Used packeges
   * [get](https://pub.dev/packages/get)
   * [get storage](https://pub.dev/packages/get_storage)
   * [equatable](https://pub.dev/packages/equatable)
